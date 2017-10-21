@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.hellow" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>helloTest</name>
+    <name>MilesApp</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        MilesApp is a simple HTML, CSS, and Javascript based app to track your daily running activity.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+        Willy Wijaya
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
